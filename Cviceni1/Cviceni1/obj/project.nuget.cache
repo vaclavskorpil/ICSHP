@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdYMfxbgrZeemzfKCQCNUsOWiUNU9FvNSOOYzAwfXUn60FZX/XBfYyD1oA/71ccLecVf2RAEmqNT0movUklqOQ==",
+  "dgSpecHash": "g+9V2UbRPmv7x7/snothyhfEJSW0Kvan+7gGH43YM45TxkADjfT1ULq3prM/SjejYDT7SLzuvdF62t0T/2uh2g==",
   "success": true,
-  "projectFilePath": "/home/vaclav/RiderProjects/ICSHP/cvicen_1/cviceni_1/cviceni_1.csproj",
+  "projectFilePath": "/home/vaclav/RiderProjects/ICSHP/Cviceni1/Cviceni1/Cviceni1.csproj",
   "expectedPackageFiles": [
     "/home/vaclav/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],
