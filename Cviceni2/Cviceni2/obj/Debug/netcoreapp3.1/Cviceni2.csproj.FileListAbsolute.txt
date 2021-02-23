@@ -1,0 +1,14 @@
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.deps.json
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.runtimeconfig.json
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.runtimeconfig.dev.json
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.dll
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.pdb
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/BaseLib.dll
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/bin/Debug/netcoreapp3.1/BaseLib.pdb
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csprojAssemblyReference.cache
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.AssemblyInfoInputs.cache
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.AssemblyInfo.cs
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csproj.CopyComplete
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.dll
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.pdb

@@ -1,0 +1,8 @@
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.deps.json
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.dll
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.pdb
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.csprojAssemblyReference.cache
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.AssemblyInfoInputs.cache
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.AssemblyInfo.cs
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.dll
+/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.pdb
