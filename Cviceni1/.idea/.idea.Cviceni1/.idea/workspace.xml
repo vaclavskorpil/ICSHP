@@ -5,47 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73ead89-6da6-4c7f-8ee8-37394e12b85b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cviceni1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/bin/Debug/netcoreapp3.1/Cviceni1.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni1/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/.idea/.idea.cvicen_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cvicen_1.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/cviceni_1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/Cviceni1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cvicen_1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cvicen_1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cvicen_1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cvicen_1.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cviceni_1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cviceni_1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/Debug/netcoreapp3.1/cviceni_1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/cvicen_1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Cviceni1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/cvicen_1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Cviceni1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/cvicen_1.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Cviceni1.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cvicen_1/cviceni_1/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/Cviceni1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Cviceni1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni1/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -104,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613927574146</updated>
-      <workItem from="1613927577281" duration="3013000" />
+      <workItem from="1613927577281" duration="3183000" />
+      <workItem from="1614096458854" duration="118000" />
+      <workItem from="1614100815332" duration="48000" />
     </task>
     <servers />
   </component>
@@ -118,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -159,7 +128,7 @@
               <option value="2087" />
             </startOffsets>
             <endOffsets>
-              <option value="2159" />
+              <option value="2150" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />

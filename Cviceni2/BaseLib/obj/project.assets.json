@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/Cviceni1.csproj",
-      "projectName": "Cviceni1",
-      "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/Cviceni1.csproj",
+      "projectUniqueName": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj",
+      "projectName": "BaseLib",
+      "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj",
       "packagesPath": "/home/vaclav/.nuget/packages/",
-      "outputPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/obj/",
+      "outputPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vaclav/.nuget/NuGet/NuGet.Config"

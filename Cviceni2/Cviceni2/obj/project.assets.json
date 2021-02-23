@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BaseLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BaseLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BaseLib/1.0.0": {
+      "type": "project",
+      "path": "../BaseLib/BaseLib.csproj",
+      "msbuildProject": "../BaseLib/BaseLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BaseLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/vaclav/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/Cviceni1.csproj",
-      "projectName": "Cviceni1",
-      "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/Cviceni1.csproj",
+      "projectUniqueName": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/Cviceni2.csproj",
+      "projectName": "Cviceni2",
+      "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/Cviceni2.csproj",
       "packagesPath": "/home/vaclav/.nuget/packages/",
-      "outputPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni1/Cviceni1/obj/",
+      "outputPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/Cviceni2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vaclav/.nuget/NuGet/NuGet.Config"
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj": {
+              "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
