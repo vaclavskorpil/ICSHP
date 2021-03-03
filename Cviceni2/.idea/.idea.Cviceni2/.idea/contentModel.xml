@@ -6,6 +6,8 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BaseLib" t="IncludeRecursive">
         <e p="BaseLib.csproj" t="IncludeRecursive" />
+        <e p="ExtraMath.cs" t="Include" />
+        <e p="MathConverter.cs" t="Include" />
         <e p="Reading.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">

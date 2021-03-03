@@ -10,7 +10,7 @@ namespace Fei
             public static string ReadString(string message)
             {
                 Console.WriteLine(message + ": ");
-                return Console.ReadLine();
+                return Console.ReadLine()?.Trim();
             }
 
             public static int ReadInt(string message)

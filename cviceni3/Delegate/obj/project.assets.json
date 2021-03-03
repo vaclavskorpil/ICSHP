@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BaseLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BaseLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseLib/1.0.0": {
+      "type": "project",
+      "path": "../../Cviceni2/BaseLib/BaseLib.csproj",
+      "msbuildProject": "../../Cviceni2/BaseLib/BaseLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BaseLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/vaclav/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/Delegate.csproj",
+      "projectName": "Delegate",
+      "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/Delegate.csproj",
+      "packagesPath": "/home/vaclav/.nuget/packages/",
+      "outputPath": "/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/vaclav/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj": {
+              "projectPath": "/home/vaclav/Development/RiderProjects/ICSHP/Cviceni2/BaseLib/BaseLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.8, 3.1.8]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
