@@ -1,0 +1,14 @@
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate.deps.json
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.json
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.dev.json
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate.dll
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/Delegate.pdb
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/BaseLib.dll
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/bin/Debug/netcoreapp3.1/BaseLib.pdb
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.csprojAssemblyReference.cache
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.csproj.CopyComplete
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.dll
+/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.pdb
