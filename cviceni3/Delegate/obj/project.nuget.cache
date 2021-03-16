@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07FsFirhORs58FNvbd28W83xAa8JlK4gxuGo62Ku6jwpOpohT25kVaxyEliyfudkIxl9QzCLZbOh1aIpRLk8eQ==",
+  "success": true,
+  "projectFilePath": "/home/vaclav/Development/RiderProjects/ICSHP/cviceni3/Delegate/Delegate.csproj",
+  "expectedPackageFiles": [
+    "/home/vaclav/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

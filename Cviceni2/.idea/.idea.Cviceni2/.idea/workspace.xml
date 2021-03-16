@@ -8,70 +8,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44f6c49-71f4-46f6-b3d9-d06b460681e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/BaseLib.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/Reading.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/BaseLib.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/BaseLib.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/BaseLib.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLib/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/CLIController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/Command.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/Cviceni2.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/BaseLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/BaseLib.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/bin/Debug/netcoreapp3.1/Cviceni2.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Cviceni2.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Cviceni2.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Cviceni2.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cviceni2/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/.idea/.idea.Cviceni1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Cviceni1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Cviceni1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/Debug/netcoreapp3.1/Cviceni1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Cviceni1/Cviceni1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLib/ExtraMath.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLib/MathConverter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/.idea/.idea.cviceni3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/.idea/.idea.cviceni3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/.idea/.idea.cviceni3/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/.idea/.idea.cviceni3/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/.idea/.idea.cviceni3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/CLIController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Command.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Delegate.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Fakulta.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/Studenti.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Debug/netcoreapp3.1/Delegate.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Delegate.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Delegate.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/Delegate.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/Delegate/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/cviceni3.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/Debug/netcoreapp3.1/cviceni3.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/Debug/netcoreapp3.1/cviceni3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/Debug/netcoreapp3.1/cviceni3.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/Debug/netcoreapp3.1/cviceni3.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/cviceni3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/cviceni3.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/cviceni3.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cviceni3/cviceni3/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cviceni2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/Reading.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/Reading.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/bin/Debug/netcoreapp3.1/BaseLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/obj/Debug/netcoreapp3.1/BaseLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLib/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLib/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni2/obj/Debug/netcoreapp3.1/Cviceni2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cviceni2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Cviceni2/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +130,7 @@
       <updated>1614101301190</updated>
       <workItem from="1614101312752" duration="2628000" />
       <workItem from="1614110850167" duration="9062000" />
+      <workItem from="1614772688544" duration="619000" />
     </task>
     <servers />
   </component>
@@ -172,10 +157,10 @@
           <line>17</line>
           <properties documentPath="$PROJECT_DIR$/BaseLib/Reading.cs" initialLine="17" containingFunctionPresentation="method 'ReadInt'">
             <startOffsets>
-              <option value="384" />
+              <option value="392" />
             </startOffsets>
             <endOffsets>
-              <option value="416" />
+              <option value="424" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="12" />
